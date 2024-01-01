@@ -1,0 +1,12 @@
+.calculator {
+  position: absolute;
+  left: 20%;
+  margin: 50px;
+  border: 1px solid rgba(228, 221, 221, 0.993);
+  border-radius: 6px;
+  width: 350px;
+  height: auto;
+  background-color: rgba(20, 19, 31, 0.243);
+  border-radius: 30px;
+}
+
